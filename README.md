@@ -2,7 +2,7 @@
 
 Tool used to create Raspberry Pi OS images. (Previously known as Raspbian).
 
-Attemting to bake the instructions from https://learn.adafruit.com/onion-pi/overview into an image for a pi zero w
+Attempting to bake the instructions from https://learn.adafruit.com/onion-pi/overview into a lite image for a pi zero w
 
 
 ## Dependencies
