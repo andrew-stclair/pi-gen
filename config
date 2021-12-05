@@ -1,5 +1,6 @@
-IMG_NAME=OnionPi
+IMG_NAME=Raspbian
 RELEASE=bullseye
+APT_PROXY="http://10.0.0.130:3142"
 LOCALE_DEFAULT=en_AU.UTF-8
 TARGET_HOSTNAME=onionpi
 KEYBOARD_KEYMAP=us
@@ -7,3 +8,4 @@ KEYBOARD_LAYOUT="English (US)"
 TIMEZONE_DEFAULT=Australia/Melbourne
 FIRST_USER_NAME=tor
 FIRST_USER_PASS=router
+STAGE_LIST="stage0 stage1 stage2 stagegadget stagetor"
